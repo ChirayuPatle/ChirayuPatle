@@ -6,14 +6,6 @@
 
 Building scalable applications, cloud-native solutions, and modern developer experiences.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-success?style=for-the-badge)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:YOUR_EMAIL)
-
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&style=for-the-badge)
-
-</div>
-
 ---
 
 ## 💫 About Me
@@ -114,40 +106,16 @@ Official website developed and deployed on a custom domain.
 
 </p>
 
----
+## 🚀 Areas of Interest
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
-
-</p>
-
----
-
-## 🌱 Currently Learning
-
-* ☁️ AWS Cloud
-* ☸️ Kubernetes
-* 🐳 Docker
-* 🏗️ Infrastructure as Code (Terraform)
-* ⚙️ Ansible
-* 🧩 Microservices
-* 🚀 CI/CD Pipelines
+* ☁️ Cloud Computing (AWS)
+* ☸️ Kubernetes & Container Orchestration
+* 🐳 Docker & Containerization
+* 🧩 Microservices Architecture
+* 🚀 CI/CD & DevOps Automation
+* 🏗️ Infrastructure as Code
 * 📦 Platform Engineering
-* 🔐 Cloud Security Fundamentals
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Build production-grade cloud-native applications.
-* ☁️ Master Kubernetes and AWS.
-* 🏗️ Learn Infrastructure as Code and Platform Engineering.
-* 🧩 Learn about Microservices.
-* 📖 Contribute to Open Source.
-* 💼 Secure a Software/DevOps/Cloud Engineering role.
+* 🌐 Distributed Systems
 
 ---
 
@@ -157,10 +125,6 @@ Official website developed and deployed on a custom domain.
 
 <a href="https://www.linkedin.com/in/chirayupatle/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:chirayupatle2@gmail.com">
-📧 Email
 </a>
 
 </p>
