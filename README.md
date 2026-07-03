@@ -1,7 +1,5 @@
 # Hi there, I'm Chirayu Patle 👋
 
-<div align="center">
-
 ### 🚀 Software Engineer • Full Stack Developer • DevOps & Cloud Enthusiast
 
 Building scalable applications, cloud-native solutions, and modern developer experiences.
@@ -54,56 +52,6 @@ Building scalable applications, cloud-native solutions, and modern developer exp
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 Interview Automation Platform
-
-> AI-powered interview platform supporting coding rounds, MCQ assessments, video interviews, authentication, dashboards, and analytics.
-
-**Tech Stack:** Next.js • TypeScript • Node.js • PostgreSQL • Docker
-
----
-
-### 💻 Nexus – Real-Time Collaborative IDE
-
-> Cloud-native collaborative coding platform supporting multiple developers simultaneously with real-time synchronization.
-
-✨ Highlights
-
-* ⚡ Real-time collaboration
-* 🐳 Dockerized application
-* ☸️ Kubernetes deployment
-* 🔄 GitLab CI/CD
-* 🚀 Low-latency WebSocket communication
-
----
-
-### 🌐 Engineering India – Club Website
-
-Official website developed and deployed on a custom domain.
-
-✔️ 6,000+ Visitors
-
-✔️ 100% Uptime
-
-✔️ Production Deployment
-
-✔️ Event Management Platform
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
-
 </p>
 
 ## 🚀 Areas of Interest
